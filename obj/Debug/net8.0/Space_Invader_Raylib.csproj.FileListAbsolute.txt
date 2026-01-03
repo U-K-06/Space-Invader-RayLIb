@@ -20,3 +20,4 @@ C:\Users\Utkar\source\repos\Space_Invader_Raylib\Space_Invader_Raylib\obj\Debug\
 C:\Users\Utkar\source\repos\Space_Invader_Raylib\Space_Invader_Raylib\obj\Debug\net8.0\Space_Invader_Raylib.pdb
 C:\Users\Utkar\source\repos\Space_Invader_Raylib\Space_Invader_Raylib\obj\Debug\net8.0\Space_Invader_Raylib.genruntimeconfig.cache
 C:\Users\Utkar\source\repos\Space_Invader_Raylib\Space_Invader_Raylib\obj\Debug\net8.0\ref\Space_Invader_Raylib.dll
+C:\Users\Utkar\source\repos\Space_Invader_Raylib\Space_Invader_Raylib\obj\Debug\net8.0\Space_Invader_Raylib.sourcelink.json

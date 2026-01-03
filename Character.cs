@@ -87,6 +87,7 @@ namespace Game
         private string sprite = "|";
         private int posX;
         private int posY;
+        public bool isDone = false;
         private Character player;
         public Bullet(Character character)
         {
@@ -127,11 +128,12 @@ namespace Game
 
     class Enemy : Character
     {
+        public bool isKilled = false;
         public void MoveEnemey()
         {
             int EnemyX = GetPosX();
             int EnemyY = GetPosY();
-            if(2800<=EnemyX)
+            if((EnemyX+GetSize())>=2800)
             {
                 UpdatePosition(50, EnemyY + 100);
             }
